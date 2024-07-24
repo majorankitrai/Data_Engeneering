@@ -18,3 +18,5 @@ buddy = Dog("Buddy")
 
 dog.animal_info()
 buddy.animal_info()
+
+print("test")
