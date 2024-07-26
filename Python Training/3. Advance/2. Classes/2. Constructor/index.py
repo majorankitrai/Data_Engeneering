@@ -15,7 +15,7 @@ class Person:
         self.location = "USA"
 
     def user_info(self):
-        print(f"Name: {self.name}, Age: {self.age}, Location: {self.location}")
+        print(f"Name: {self.name}, Age: {self.age},location:{self.location}")
 
 
 jordan = Person()
