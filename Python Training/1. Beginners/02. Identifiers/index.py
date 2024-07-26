@@ -2,8 +2,9 @@
 
 # - Case Sensitivity
 password = 12345
-# PASSWORD = 54321 ❌
-# print(password)
+print(password)
+PASSWORD = 54321
+print(password)
 
 # Reserved Words ❌
 # while = 20

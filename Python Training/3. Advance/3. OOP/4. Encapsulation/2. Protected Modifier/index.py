@@ -12,6 +12,6 @@ class MyClass:
         return self._x
 
 
-obj = MyClass(10)
+obj = MyClass(11)
 print(obj.get_x())  # 10
 print(obj._x)  # Accessing a protected attribute (not recommended, but possible)
